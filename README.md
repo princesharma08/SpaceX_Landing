@@ -1,20 +1,14 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
 # SpaceX: Capsule Landing Page
 
 # About SpaceX:
 SpaceX, a pioneering company at the forefront of space exploration, is known for designing, manufacturing, and launching cutting-edge rockets and spacecraft. The remarkable aspect is that they've generously open-sourced their data through the SpaceX Data API.
+
+# Getting Started with Create React App
+In the project directory, you can run:
+
+### `npm start`
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 # Assignment Overview:
 1. Craft a visually stunning, pixel-perfect landing page that will leave jaws dropping. Your design skills will be on full display!
